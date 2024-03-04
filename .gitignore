@@ -1,0 +1,12 @@
+﻿# Ignore Visual Studio files and directories
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore specific file within the Visual Studio directory
+.vs/Notes/FileContentIndex/2e99d446-9227-4c43-8f18-ddb36ffcca4c.vsidx
